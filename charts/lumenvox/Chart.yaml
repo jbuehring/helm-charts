@@ -20,10 +20,10 @@ dependencies:
   - name: lumenvox-common
     version: 5.4.0
     condition: global.enabled.lumenvoxCommon
-    repository: "https://lumenvox.github.io/helm-charts"
+    repository: "https://jbuehring.github.io/helm-charts"
 
   - name: lumenvox-speech
     version: 5.4.0
     condition: global.enabled.lumenvoxSpeech
-    repository: "https://lumenvox.github.io/helm-charts"
+    repository: "https://jbuehring.github.io/helm-charts"
 
